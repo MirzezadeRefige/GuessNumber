@@ -1,0 +1,25 @@
+@media only screen and (max-width: 767px) {
+  header h1 {
+    margin-left: 6%;
+    text-align: center;
+  }
+  .div1 h4 {
+    /* margin: 0; */
+    width: 200px;
+    font-size: 25px;
+    justify-content: start !important;
+  }
+  .div1 {
+    margin-left: 27%;
+    text-align: center;
+    /* text-align: center; */
+    padding-top: 3%;
+  }
+  .scores {
+    margin: 20% 0 0 0;
+  }
+
+  #reset {
+    margin-top: 50%;
+  }
+}
